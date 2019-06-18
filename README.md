@@ -1,2 +1,2 @@
-# wechatShoppingMall
+# healthClubApplet
 mall
